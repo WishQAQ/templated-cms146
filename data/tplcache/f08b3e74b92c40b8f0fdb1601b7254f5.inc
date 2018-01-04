@@ -1,0 +1,1 @@
+<div class="box"> <img src="[field:imgsrc/]" width="880" /> </div>

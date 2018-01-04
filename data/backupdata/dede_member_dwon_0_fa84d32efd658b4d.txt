@@ -1,0 +1,5 @@
+INSERT INTO `dede_member_dwon` VALUES('1','1460732719','岁的单身的速度','10');
+INSERT INTO `dede_member_dwon` VALUES('1','1460732749','岁的单身的速度','10');
+INSERT INTO `dede_member_dwon` VALUES('13','1460732789','阿苏打撒旦撒旦撒旦','10');
+INSERT INTO `dede_member_dwon` VALUES('13','1460732910','阿苏打撒旦撒旦撒旦','100');
+INSERT INTO `dede_member_dwon` VALUES('13','1460732964','阿苏打撒旦撒旦撒旦','10');

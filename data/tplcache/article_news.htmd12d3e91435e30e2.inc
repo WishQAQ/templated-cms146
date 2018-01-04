@@ -1,0 +1,43 @@
+<?php
+$z[0]=Array("field","",254,273);
+$z[0][4]['name']="title";
+$z[1]=Array("global","",274,300);
+$z[1][4]['name']="cfg_webname";
+$z[2]=Array("include","",1440,1475);
+$z[2][4]['filename']="head.htm";
+$z[3]=Array("field","",1548,1577);
+$z[3][4]['name']="position";
+$z[4]=Array("channel","\r\n	    <dd><a href=\"[field:typelink/]\">[field:typename/]</a></dd>\r\n		",1723,1905);
+$z[4][4]['row']="10";
+$z[4][4]['currentstyle']="<dd class=";
+$z[4][4]['curr"><a href']="~typelink~";
+$z[4][4]['>~typename~</a></dd>"']="";
+$z[5]=Array("field","",2009,2028);
+$z[5][4]['name']="title";
+$z[6]=Array("field","",2064,2116);
+$z[6][4]['name']="pubdate";
+$z[6][4]['function']="MyDate('Y/m/d',@me)";
+$z[7]=Array("field","",2166,2193);
+$z[7][4]['name']="phpurl";
+$z[8]=Array("field","",2217,2240);
+$z[8][4]['name']="id";
+$z[9]=Array("field","",2245,2269);
+$z[9][4]['name']="mid";
+$z[10]=Array("field","",2363,2383);
+$z[10][4]['name']="source";
+$z[11]=Array("field","",2420,2438);
+$z[11][4]['name']="body";
+$z[12]=Array("prenext","",3390,3415);
+$z[12][4]['get']="pre";
+$z[13]=Array("prenext","",3457,3483);
+$z[13][4]['get']="next";
+$z[14]=Array("arclist","\r\n<li><div class=\"newspic\"><a href=\"[field:arcurl /]\" title='[field:title /]'><img src=\"[field:picname/]\" width=\"176\" height=\"125\" border=\"0\" alt=\"[field:title /]\" /></a></div><a href=\"[field:arcurl /]\" title='[field:title /]'>[field:title /]…</a><p>[field:infos/]…</p>\r\n      <div class=\"time\">日期：[field:pubdate function=\"MyDate('Y/m/d',@me)\"/]     阅读：<em>[field:click/]</em></div>\r\n    </li>\r\n",3660,4165);
+$z[14][4]['row']="4";
+$z[14][4]['typeid']="7";
+$z[14][4]['titlelen']="30";
+$z[14][4]['infolen']="300";
+$z[14][4]['orderby']="pubdate";
+$z[15]=Array("include","",4216,4253);
+$z[15][4]['filename']="footer.htm";
+
+?>
